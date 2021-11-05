@@ -1,0 +1,37 @@
+body{
+    background-color: chocolate;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-top: 1px;
+    padding-bottom: 11px;
+}
+
+.div1{
+    text-align: center;
+}
+
+.para1{
+    display: flex;
+    align-items: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 35px;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    background-color: lightgreen;
+    box-shadow: 2px 4px gray;
+}
+
+.col1{
+    margin-left: 125px;
+}
+
+.col2{
+    margin-left: 125px;
+}
+
+.p1{
+    font-family: 'Courier New', Courier, monospace;
+}
